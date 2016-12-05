@@ -14,3 +14,7 @@ Flask-Lite is licensed under the BSD license. For more info see LICENSE.md
 ```shell
 cookiecutter https://github.com/stenote/cookiecutter-flask-lite
 ```
+
+## Packages
+
+[requirements.txt]({{cookiecutter.repo_name}}/requirements.txt)
